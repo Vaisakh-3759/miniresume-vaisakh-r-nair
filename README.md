@@ -8,7 +8,6 @@ Django REST Framework
 SQLite / PostgreSQL
 Git & GitHub
 
-
 Installation Steps
 
 Clone the repository:
@@ -21,9 +20,9 @@ python manage.py makemigrations python manage.py migrate
 
 Example request 
 
-email: user@example.com 
-name: John Doe 
-phone: 9876543210 
-skills: Python, Django, REST API 
-experience: 1 year backend development 
+email: user@example.com
+name: John Doe
+phone: 9876543210
+skills: Python, Django, REST API
+experience: 1 year backend development
 resume: resume.pdf
